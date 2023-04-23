@@ -41,10 +41,12 @@ function BoxWithDetails({hikeDetails, onClose}) {
                 borderRadius: "50%",
                 padding: "8px",
                 position: "absolute",
-                top: "8px",
-                right: "8px",
+                width: "40px", 
+                height: "40px",
+                top: "105px",
+                right: "382px",
                 cursor: "pointer",
-                zIndex: 2, // Add a higher z-index to the button
+                zIndex: 2,
             }}
             >
             X
