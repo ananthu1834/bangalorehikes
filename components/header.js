@@ -2,14 +2,15 @@ function Header({
     title = "Bangalore Hikes", 
     description = "Library of short, one day hikes close to bangalore and links to useful resources",
     disclaimer = "Credits: Information here is mostly aggregated from various free and publicly available sources. Special thanks to Indiahikes for the vast number of documented hikes"}) {
-  return (
-    <header className="text-white py-0 mb-8">
-      <div className="ml-12 mx-auto px-4 sm:px-6 lg:px-8">
-        <h1 className="text-3xl font-bold">{title}</h1>
-        <p className="mt-2 text-lg">{description}</p>
-        <p style={{ color: '#888', fontSize: "" }}>{disclaimer}</p>
-      </div>
-    </header>
+  
+    return (
+        <div style={{ color: '#fff', paddingTop: 0, paddingBottom: '2rem', marginBottom: '2rem' }}>
+            <div style={{ marginRight: 'auto', paddingLeft: '2rem' }}>
+                <h1 style={{ fontSize: '1.875rem', fontWeight: '700' }}>{title}</h1>
+                <p style={{ marginTop: '0.5rem', fontSize: '1.125rem' }}>{description}</p>
+                <p style={{ color: '#888', fontSize: '1rem' }}>{disclaimer}</p>
+            </div>
+        </div>
   );
 }
 
