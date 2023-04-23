@@ -150,7 +150,7 @@
       },
       {
         "id": 10,
-        "title": "Siddarabetta",
+        "title": "Siddara Betta",
         "highlights": [
             "Lot of steps and an active temple towards the end. Green and wild later",
             "Large area to explore on the top",
@@ -163,6 +163,87 @@
                 "text": "Karnataka Ecotourism Website"
             },
             "location": "https://goo.gl/maps/fmza2ozwSY9AvSUX7"
+        }
+      },
+      {
+        "id": 11,
+        "title": "Kaiwara Betta",
+        "highlights": [
+            "Not too popular among the ones in Eco Tourism website",
+            "Need to pre-book via Karnataka Ecotourism Website",
+            "A guide might join as a mandatory safety precaution"
+        ],
+        "imageSrc": "kaiwarabetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://karnatakaecotourism.com/treksdetail/TRK131",
+                "text": "Karnataka Ecotourism Website"
+            },
+            "location": "https://goo.gl/maps/V3mCKzdSG2DswV1r7"
+        }
+      },
+      {
+        "id": 12,
+        "title": "Chinaga Betta",
+        "highlights": [
+            "Not too popular among the ones in Eco Tourism website",
+            "Need to pre-book via Karnataka Ecotourism Website",
+            "A small vertical climb at the end using cuts on the rock"
+        ],
+        "imageSrc": "chinagabetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://karnatakaecotourism.com/treksdetail/TRK125",
+                "text": "Karnataka Ecotourism Website"
+            },
+            "location": "https://goo.gl/maps/naudxzsH3epeET9C9"
+        }
+      },
+      {
+        "id": 13,
+        "title": "Nijagal Betta",
+        "highlights": [
+            "Quite offbeat and right beside the highway"
+        ],
+        "imageSrc": "nijagalbetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.sarathythetraveler.com/2017/09/a-peaceful-drive-to-nijagal-betta-aka.html",
+                "text": "Blog"
+            },
+            "location": "https://goo.gl/maps/2PEd4AURbPsmzKKh6"
+        }
+      },
+      {
+        "id": 14,
+        "title": "Bheemana kindi",
+        "highlights": [
+            "Giant rock arch close to the top",
+            "Quite offbeat and wild after the arch with thick forest trails",
+            "Apparently chances of wildlife, especially elephants are high"
+        ],
+        "imageSrc": "bheemanakindi.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/bheemana-kindi-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/fE7YjukbL989d2ZX6"
+        }
+      },
+      {
+        "id": 15,
+        "title": "Ambaji Durga",
+        "highlights": [
+            "One of the longer trails (~8km to and fro) if you start from the bottom using Indiahikes documentation"
+        ],
+        "imageSrc": "ambajidurga.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/ambaji-durga-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/cWHadkgPfv2y8HbV8"
         }
       }
 ]
