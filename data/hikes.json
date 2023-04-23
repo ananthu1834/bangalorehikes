@@ -1,0 +1,169 @@
+ [
+      {
+        "id": 1,
+        "title": "Harihara Betta",
+        "highlights": [
+            "Twin peaks, green",
+            "Flat grassland close to the peaks"
+        ],
+        "imageSrc": "hariharabetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/harihara-betta-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/qcvsJVzXzEmE8SQ58"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Savandurga",
+        "highlights": [
+            "Asia's largest monolith rock",
+            "One of the hardest around Blore",
+            "Need to pre-book via Karnataka Ecotourism Website",
+            "Usually crowded"
+        
+        ],
+        "imageSrc": "savandurga.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/savandurga-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/b8aYQwYmH69cQhNSA"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Horagina Betta (aka Nandi One)",
+        "highlights": [
+            "Offbeat and besides Nandi Hills",
+            "Quite a bit of tree cover compared to most other treks"
+        ],
+        "imageSrc": "horaginabetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/nandi-hills-trek-brahmagiri",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/1GjLKGe3FxE16Ruc7"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Uttaribetta (aka Hutridurga)",
+        "highlights": [
+            "Usually crowded",
+            "Relatively green and wild"
+        ],
+        "imageSrc": "uttaribetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.bmcadventures.com/tours/day-trek-to-uttari-betta-20873",
+                "text": "BMC Website"
+            },
+            "location": "https://goo.gl/maps/rM5THmSBaodAhsFB6"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Halu Chilume Gange",
+        "highlights": [
+            "Very offbeat",
+            "Thorny and hard to find trail at the top"
+        ],
+        "imageSrc": "haluchilume.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/halu-chilume-gange-trek/",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/cTi7Yiwwc8UXMgYZ7"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Channarayana Durga",
+        "highlights": [
+            "Rocky hill with forts",
+            "Great place for a night trek"
+        ],
+        "imageSrc": "channarayanadurga.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/channarayana-durga",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/tucdLMob2gKtZnFg7"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Skandagiri",
+        "highlights": [
+            "The most popular and crowded trek around Bangalore",
+            "Need to pre-book via Karnataka Ecotourism Website",
+            "Great for a sunrise trek"
+        ],
+        "imageSrc": "skandagiri.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/skandagiri-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/dbcJGStSkv6E3ian9"
+        }
+      },
+      {
+        "id": 8,
+        "title": "Bananthimari Betta (aka Karadibetta)",
+        "highlights": [
+            "Relatively short",
+            "Quite offbeat"
+        ],
+        "imageSrc": "bananthimaribetta.jpg",
+        "details": {
+            "reference": {
+                "link": "http://www.ajeyarao.com/2016/09/bananthimari-betta-trek.html",
+                "text": "Blog"
+            },
+            "location": "https://goo.gl/maps/zffvgNvjCgVGuvjE6"
+        }
+      },
+      {
+        "id": 9,
+        "title": "Makalidurga",
+        "highlights": [
+            "Quite crowded",
+            "Need to pre-book via Karnataka Ecotourism Website",
+            "Unique trek with a railway line crossing in the beginning"
+        ],
+        "imageSrc": "makalidurga.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/makalidurga-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/pktc82s82LtAdbbY7"
+        }
+      },
+      {
+        "id": 10,
+        "title": "Siddarabetta",
+        "highlights": [
+            "Lot of steps and an active temple towards the end. Green and wild later",
+            "Large area to explore on the top",
+            "Need to pre-book via Karnataka Ecotourism Website"
+        ],
+        "imageSrc": "siddarabetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.karnatakaecotourism.com/treksdetail/TRK124",
+                "text": "Karnataka Ecotourism Website"
+            },
+            "location": "https://goo.gl/maps/fmza2ozwSY9AvSUX7"
+        }
+      }
+]
+
