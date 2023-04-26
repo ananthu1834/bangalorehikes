@@ -245,6 +245,87 @@
             },
             "location": "https://goo.gl/maps/cWHadkgPfv2y8HbV8"
         }
+      },
+      {
+        "id": 16,
+        "title": "Kunagalu Betta",
+        "highlights": [
+            "Short and Offbeat",
+            "One of the closest to Bangalore"
+        ],
+        "imageSrc": "kunagalubetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/kunagalu-betta-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/hq8eKBLh39merCBg8"
+        }
+      },
+      {
+        "id": 17,
+        "title": "Handi Gundi",
+        "highlights": [
+            "Short and easy",
+            "One of the closest to Bangalore"
+        ],
+        "imageSrc": "handigundi.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/handi-gundi-trek/#gref",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/RpnvKqYHBE6cvZK77"
+        }
+      },
+      {
+        "id": 18,
+        "title": "Varlakonda Fort",
+        "highlights": [
+            "Lot of flowers",
+            "Good option for monsoon"
+        ],
+        "imageSrc": "varlakondafort.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.sarathythetraveler.com/2021/08/varlakonda-fort-valley-of-flowers-of.html",
+                "text": "Blog"
+            },
+            "location": "https://goo.gl/maps/u3u8bqy1811eFPL17"
+        }
+      },
+      {
+        "id": 19,
+        "title": "Minchikall Betta",
+        "highlights": [
+            "Walking through water canal in monsoon",
+            "Completely rocky hill"
+        ],
+        "imageSrc": "minchikallbetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/minchikall-betta-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/ELDmMmM6CYfSyvgx8"
+        }
+      },
+      {
+        "id": 20,
+        "title": "Anthargange",
+        "highlights": [
+            "Cave exploration",
+            "Need to pre-book via Karnataka Ecotourism Website",
+            "Very crowded usually"
+        ],
+        "imageSrc": "anthargange.jpg",
+        "details": {
+            "reference": {
+                "link": "https://karnatakaecotourism.com/treksdetail/TRK129",
+                "text": "Karnataka Ecotourism Website"
+            },
+            "location": "https://goo.gl/maps/Be7dnaUnPpWh8Jyy6"
+        }
       }
 ]
 
