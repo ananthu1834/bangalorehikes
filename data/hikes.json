@@ -326,6 +326,351 @@
             },
             "location": "https://goo.gl/maps/Be7dnaUnPpWh8Jyy6"
         }
+      },
+      {
+        "id": 21,
+        "title": "Madhugiri Fort",
+        "highlights": [
+            "One of the harder ones around Bangalore",
+            "One very steep section - not preferable during monsoons"
+        ],
+        "imageSrc": "madhugirifort.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/madhugiri-fort",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/gvTxPebLyedYS5T69"
+        }
+      },
+      {
+        "id": 22,
+        "title": "Kunti Betta",
+        "highlights": [
+            "Popular for sunrise hikes",
+            "Relatively far from Bangalore"
+        ],
+        "imageSrc": "kuntibetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.thrillophilia.com/tours/kunti-betta-night-trek",
+                "text": "Thrillophilia"
+            },
+            "location": "https://goo.gl/maps/b1YwMs3VBAfSmgHu6"
+        }
+      },
+      {
+        "id": 23,
+        "title": "Thayee Betta",
+        "highlights": [
+            "Very offbeat",
+            "Relatively close to Bangalore than other one day hikes"
+        ],
+        "imageSrc": "thayeebetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.alltrails.com/trail/india/karnataka/thayee-betta",
+                "text": "All trails Website"
+            },
+            "location": "https://goo.gl/maps/vbdfaLV4jx7LsFGf7"
+        }
+      },
+      {
+        "id": 24,
+        "title": "Achalu Betta",
+        "highlights": [
+            "Very offbeat",
+            "Relatively close to Bangalore than other one day hikes"
+        ],
+        "imageSrc": "achalubetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.alltrails.com/trail/india/karnataka/achalu-betta",
+                "text": "All trails Website"
+            },
+            "location": "https://goo.gl/maps/FUPb8447eDY1cAYt7"
+        }
+      },
+      {
+        "id": 25,
+        "title": "Dibbagireshwara Swami Gudi",
+        "highlights": [
+            "Very offbeat",
+            "Potential wildlife"
+        ],
+        "imageSrc": "dibbagireshwaraswamigudi.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.youtube.com/watch?v=RGQ7kNSZ7OA",
+                "text": "Youtube"
+            },
+            "location": "https://goo.gl/maps/mTygnkisigbbtx5J9"
+        }
+      },
+      {
+        "id": 26,
+        "title": "Kabbala Durga",
+        "highlights": [
+            "Well known trail for sunrise hikes"
+        ],
+        "imageSrc": "kabbaladurga.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.bmcadventures.com/tours/sunrise-trek-to-kabaladurga-62324",
+                "text": "BMC Website"
+            },
+            "location": "https://goo.gl/maps/EGUuULD8oC9uF9v69"
+        }
+      },
+      {
+        "id": 27,
+        "title": "Bala Kondarayana Durgam",
+        "highlights": [
+            "Lot of steps, but wild and offbeat",
+            "One of the few hikes near Krishnagiri"
+        ],
+        "imageSrc": "balakondarayanadurgam.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.sarathythetraveler.com/2021/01/the-beautiful-balakondarayanadurgam-trek.html",
+                "text": "Blog"
+            },
+            "location": "https://goo.gl/maps/9USxwCEtzYmTRCTR8"
+        }
+      },
+      {
+        "id": 28,
+        "title": "Channagiri",
+        "highlights": [
+            "Relatively offbeat and wild hike near Nandi Hills"
+        ],
+        "imageSrc": "channagiri.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.bmcadventures.com/tours/one-day-trek-to-chennagiri-21022",
+                "text": "BMC Website"
+            },
+            "location": "https://goo.gl/maps/iXUVsWWTkVjkbtWy8"
+        }
+      },
+      {
+        "id": 29,
+        "title": "Kengal Betta",
+        "highlights": [
+            "Hardly any trail, very offbeat",
+            "Some very steep places"
+        ],
+        "imageSrc": "kengalbetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://mohangurudath.blogspot.com/2014/06/trek-to-jungle-betta.html",
+                "text": "Blog"
+            },
+            "location": "https://goo.gl/maps/cNapvYxJSUjtHPi56"
+        }
+      },
+      {
+        "id": 30,
+        "title": "Vade Malleshwara Hill",
+        "highlights": [
+            "Very offbeat",
+            "Overgrown steps till the temple and very steep rocks later"
+        ],
+        "imageSrc": "vademalleshwarahill.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.youtube.com/watch?v=H_HL3KwNVsY",
+                "text": "Youtube"
+            },
+            "location": "https://goo.gl/maps/nw57tTh6CER7wDsR7"
+        }
+      },
+      {
+        "id": 31,
+        "title": "Rangasthala Betta",
+        "highlights": [
+            "Very unexplored and relatively short"
+        ],
+        "imageSrc": "rangasthalabetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.sarathythetraveler.com/2021/10/the-unexplored-tales-of-rangasthala.html",
+                "text": "Blog"
+            },
+            "location": "https://goo.gl/maps/FckXmrPpGUYuiWVD8"
+        }
+      },
+      {
+        "id": 32,
+        "title": "Lakshmi Narayana Swamy Betta",
+        "highlights": [
+            "Offbeat"
+        ],
+        "imageSrc": "lakshminarayanaswamybetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.youtube.com/watch?v=6aUxw4k-Q2w",
+                "text": "Youtube"
+            },
+            "location": "https://goo.gl/maps/zNFmhoskd5feQKzZA"
+        }
+      },
+      {
+        "id": 33,
+        "title": "Billikal Rangaswamy betta",
+        "highlights": [
+            "Part of Bannerghata National Park"
+        ],
+        "imageSrc": "billikalrangaswamybetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://en.wikipedia.org/wiki/Bilikal_Rangaswamy_Betta",
+                "text": "Wikipedia"
+            },
+            "location": "https://goo.gl/maps/jkPseVKheeTNtFYK6"
+        }
+      },
+      {
+        "id": 34,
+        "title": "Siddalingeshwara Betta",
+        "highlights": [
+            "Very short, but very offbeat",
+            "There could be wild animals"
+        ],
+        "imageSrc": "siddalingeshwarabetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/siddalingeshwara-betta-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/63x8TEhgSPhxhzGR6"
+        }
+      },
+      {
+        "id": 35,
+        "title": "Huliyurdurga",
+        "highlights": [
+            "Natural rock climbing at one place to go further up"
+        ],
+        "imageSrc": "huliyurdurga.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/huliyurdurga-trek",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/kkyXdow64qnkfUjWA"
+        }
+      },
+      {
+        "id": 36,
+        "title": "Tapteshwara Hill",
+        "highlights": [
+            "Right beside Kaiwara hike on the same hill",
+            "Dangerous sections"
+        ],
+        "imageSrc": "tapteshwarahill.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.youtube.com/watch?v=8Mcyq7wJEec",
+                "text": "Youtube"
+            },
+            "location": "https://goo.gl/maps/5bRjxvPkyB8BigMa7"
+        }
+      },
+      {
+        "id": 37,
+        "title": "Bhairavadurga",
+        "highlights": [
+            "Very offbeat, no trails",
+            "Potentially dangerous neighborhood at the base"
+        ],
+        "imageSrc": "bhairavadurga.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.youtube.com/watch?v=e4Ou9GnfJUU",
+                "text": "Youtube"
+            },
+            "location": "https://goo.gl/maps/hcvwSmhLqftu4t4P7"
+        }
+      },
+      {
+        "id": 38,
+        "title": "Bidarakatte",
+        "highlights": [
+            "Short and easy trail near Savandurga",
+            "Need to pre-book via Karnataka Ecotourism Website"
+        ],
+        "imageSrc": "bidarakatte.jpg",
+        "details": {
+            "reference": {
+                "link": "https://karnatakaecotourism.com/treksdetail/TRK127",
+                "text": "Karnataka Ecotourism Website"
+            },
+            "location": "https://goo.gl/maps/KW7NHYo4K7dYWaHL8"
+        }
+      },
+      {
+        "id": 39,
+        "title": "Muthurayaswamy Betta",
+        "highlights": [
+            "Very short, but offbeat and tricky at times"
+        ],
+        "imageSrc": "muthurayaswamybetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://indiahikes.com/documented-trek/muthurayaswamy-betta-trek#trail-info",
+                "text": "Indiahikes Website"
+            },
+            "location": "https://goo.gl/maps/CfBfg7eUwc1ozouU8"
+        }
+      },
+      {
+        "id": 40,
+        "title": "Devarayanadurga",
+        "highlights": [
+            "Potentially touristy and crowded",
+            "Stairs all the way up to a temple at the top"
+        ],
+        "imageSrc": "devarayanadurga.jpg",
+        "details": {
+            "reference": {
+                "link": "https://karnatakaecotourism.com/treksdetail/TRK1",
+                "text": "Karnataka Ecotourism Website"
+            },
+            "location": "https://goo.gl/maps/63hYuCp5JXFZ31Da9"
+        }
+      },
+      {
+        "id": 41,
+        "title": "Sivagange",
+        "highlights": [
+            "Multiple temples on the trail",
+            "Quite crowded, yet beautiful",
+            "Quite steep with railings at some places"
+        ],
+        "imageSrc": "sivagange.jpg",
+        "details": {
+            "reference": {
+                "link": "https://en.wikipedia.org/wiki/Shivagange",
+                "text": "Wikipedia"
+            },
+            "location": "https://goo.gl/maps/8oWMgrRirxkHPZUg6"
+        }
+      },
+      {
+        "id": 42,
+        "title": "Avala Betta",
+        "highlights": [
+            "Quite crowded and with steps and a clear trail"
+        ],
+        "imageSrc": "avalabetta.jpg",
+        "details": {
+            "reference": {
+                "link": "https://www.youtube.com/watch?v=owjgTyWh6aU",
+                "text": "Youtube"
+            },
+            "location": "https://goo.gl/maps/8oWMgrRirxkHPZUg6"
+        }
       }
 ]
 
