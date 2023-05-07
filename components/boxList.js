@@ -13,7 +13,7 @@ function BoxList() {
         }}
     >
       {data.map((item) => (
-            <Box hikeDetails={item}/>
+            <Box key={item.id} hikeDetails={item}/>
       ))}
     </div>
   );
