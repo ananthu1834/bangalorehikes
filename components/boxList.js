@@ -5,10 +5,10 @@ import Box from './boxWithThumbnail';
 function BoxList() {
   return (
     <div
+        className='top-level-components'
         style={{
             display: "flex",
             flexWrap: "wrap",
-            marginLeft: 20,
             marginRight: 10
         }}
     >

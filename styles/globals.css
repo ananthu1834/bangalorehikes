@@ -17,15 +17,23 @@
 }
 
 .box-component {
-  width: 90%;
+  width: 50%;
 }
 
-@media (min-width: 768px) {
+
+.top-level-components {
+  margin-left: 20px;
+}
+
+
+@media (max-width: 767px) {
   .box-component {
-    width: 50%;
+    width: 90%;
+  }
+  .top-level-components {
+    margin-left: 0px;
   }
 }
-
 
 
 body {
