@@ -16,12 +16,12 @@ function BoxWithThumbnail({hikeDetails}) {
   return (
     <>
       <div
+        className='thumbnail-box'
         style={{
           display: 'inline-block',
           border: '2px solid rgba(150, 150, 150)',
           borderRadius: 8,
           overflow: 'hidden',
-          width: 256,
           boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.05)',
           backgroundColor: boxBackgroundColor,
           marginRight: '1rem',
@@ -43,8 +43,6 @@ function BoxWithThumbnail({hikeDetails}) {
             style={{
               height: '100%',
               position: 'absolute',
-              top: 0,
-              left: 0,
               objectFit: 'cover'
             }}
           />
@@ -56,9 +54,9 @@ function BoxWithThumbnail({hikeDetails}) {
           }}
         >
           <h2
+            className='thumbnail-heading'
             style={{
               margin: 0,
-              fontSize: 18,
               fontWeight: 'bold',
               color: '#FFFFFF'
             }}
@@ -66,9 +64,9 @@ function BoxWithThumbnail({hikeDetails}) {
             {hikeDetails.title}
           </h2>
           <p
+            className='thumbnail-content'
             style={{
               margin: '12px 0 0',
-              fontSize: 14,
               color: '#D1D5DB'
             }}
           >

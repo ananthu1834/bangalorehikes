@@ -20,18 +20,38 @@
   width: 50%;
 }
 
-
 .top-level-components {
   margin-left: 20px;
 }
 
+.thumbnail-box {
+  width: 256px;
+}
+
+.thumbnail-heading {
+  font-size: 18px;
+}
+
+.thumbnail-content {
+  font-size: 14px;
+}
 
 @media (max-width: 767px) {
-  .box-component {
-    width: 90%;
-  }
+
   .top-level-components {
     margin-left: 0px;
+  }
+  .details-box-component {
+    width: 90%;
+  }
+  .thumbnail-box {
+    width: 150px;
+  }  
+  .thumbnail-heading {
+    font-size: 12px;
+  }
+  .thumbnail-content {
+    font-size: 10px;
   }
 }
 

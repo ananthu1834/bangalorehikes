@@ -19,7 +19,7 @@ function BoxWithDetails({hikeDetails, onClose}) {
         }}
       >
         <div
-          className="box-component"
+          className="details-box-component"
           style={{
             display: "flex",
             flexDirection: "column",
