@@ -9,7 +9,7 @@ function BoxList() {
         style={{
             display: "flex",
             flexWrap: "wrap",
-            marginRight: 10
+            marginRight: 0
         }}
     >
       {data.map((item) => (
