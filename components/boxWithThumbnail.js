@@ -24,8 +24,6 @@ function BoxWithThumbnail({hikeDetails}) {
           overflow: 'hidden',
           boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.05)',
           backgroundColor: boxBackgroundColor,
-          marginRight: '1rem',
-          marginBottom: '1rem',
           cursor: 'pointer'
         }}
         onClick={handleBoxClick}
