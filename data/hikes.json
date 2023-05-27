@@ -17,21 +17,18 @@
       },
       {
         "id": 2,
-        "title": "Savandurga",
+        "title": "Kunagalu Betta",
         "highlights": [
-            "Asia's largest monolith rock",
-            "One of the hardest around Blore",
-            "Need to pre-book via Karnataka Ecotourism Website",
-            "Usually crowded"
-        
+            "Short and Offbeat",
+            "One of the closest to Bangalore"
         ],
-        "imageSrc": "savandurga.jpg",
+        "imageSrc": "kunagalubetta.jpg",
         "details": {
             "reference": {
-                "link": "https://indiahikes.com/documented-trek/savandurga-trek",
+                "link": "https://indiahikes.com/documented-trek/kunagalu-betta-trek",
                 "text": "Indiahikes Website"
             },
-            "location": "https://goo.gl/maps/b8aYQwYmH69cQhNSA"
+            "location": "https://goo.gl/maps/hq8eKBLh39merCBg8"
         }
       },
       {
@@ -248,18 +245,21 @@
       },
       {
         "id": 16,
-        "title": "Kunagalu Betta",
+        "title": "Savandurga",
         "highlights": [
-            "Short and Offbeat",
-            "One of the closest to Bangalore"
+            "Asia's largest monolith rock",
+            "One of the hardest around Blore",
+            "Need to pre-book via Karnataka Ecotourism Website",
+            "Usually crowded"
+        
         ],
-        "imageSrc": "kunagalubetta.jpg",
+        "imageSrc": "savandurga.jpg",
         "details": {
             "reference": {
-                "link": "https://indiahikes.com/documented-trek/kunagalu-betta-trek",
+                "link": "https://indiahikes.com/documented-trek/savandurga-trek",
                 "text": "Indiahikes Website"
             },
-            "location": "https://goo.gl/maps/hq8eKBLh39merCBg8"
+            "location": "https://goo.gl/maps/b8aYQwYmH69cQhNSA"
         }
       },
       {
