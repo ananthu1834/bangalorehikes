@@ -19,17 +19,19 @@ function BoxWithDetails({hikeDetails, onClose}) {
         }}
       >
         <div
+          className="box-component"
           style={{
             display: "flex",
             flexDirection: "column",
             border: "2px solid rgba(150, 150, 150)",
             borderRadius: 8,
             overflow: "hidden",
-            width: "50%",
-            height: "85%",
+            // width: "50%",
+            height: "90%",
             backgroundColor: boxBackgroundColor,
             boxShadow: "0px 4px 8px rgba(0, 0, 0, 0.05)",
             overflow: "auto",
+            position: "relative"
           }}
         >
             <button
@@ -43,8 +45,8 @@ function BoxWithDetails({hikeDetails, onClose}) {
                 position: "absolute",
                 width: "40px", 
                 height: "40px",
-                top: "68px",
-                right: "384px",
+                top: "8px",
+                right: "8px",
                 cursor: "pointer",
                 zIndex: 2,
             }}

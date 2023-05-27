@@ -16,6 +16,18 @@
   }
 }
 
+.box-component {
+  width: 90%;
+}
+
+@media (min-width: 768px) {
+  .box-component {
+    width: 50%;
+  }
+}
+
+
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
