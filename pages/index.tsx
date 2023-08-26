@@ -1,12 +1,30 @@
 import Header from '../components/header'
 import BoxList from '../components/boxList'
+import Head from 'next/head'
 
 export default function Home() {
   return (
-    <main className="flex flex-col p-10">
-      <Header/>
-      <BoxList/>
-    </main>
+    <>
+      <Head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9DPTM3SMF6"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+  
+            gtag('config', 'G-9DPTM3SMF6');
+            ` 
+          }}
+          />
+      </Head>
+      <main className="flex flex-col p-10">
+        <Header/>
+        <BoxList/>
+      </main>
+    </>
+    
   )
 }
 
