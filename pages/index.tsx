@@ -1,23 +1,24 @@
 import Header from '../components/header'
 import BoxList from '../components/boxList'
 import Head from 'next/head'
+import Script from 'next/script'
 
 export default function Home() {
   return (
     <>
       <Head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9DPTM3SMF6"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
+        <Script strategy='lazyOnload' src="https://www.googletagmanager.com/gtag/js?id=G-9DPTM3SMF6"></Script>
+        <Script strategy='lazyOnload'>
+          {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
   
-            gtag('config', 'G-9DPTM3SMF6');
-            ` 
-          }}
-          />
+            gtag('config', 'G-9DPTM3SMF6', {
+              page_path: window.location.pathname
+            });
+            `}
+        </Script>
       </Head>
       <main className="flex flex-col p-10">
         <Header/>
