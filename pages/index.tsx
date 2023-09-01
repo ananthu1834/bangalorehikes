@@ -6,6 +6,9 @@ export default function Home() {
   return (
     <>
       <Head>
+        <title>Bangalore Hikes</title>
+        <meta name='description' content='Find a master list of popular and offbeat one day hikes/treks around Bangalore, aggregated from sources like Indiahikes, Bangalore Mountaineering Club, Karnataka Ecotourism etc'/>
+        <meta name='keywords' content='Bangalore hikes, Short hikes, One day hikes, Offbeat, Masterlist'/>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-9DPTM3SMF6"></script>
         <script
           dangerouslySetInnerHTML={{
